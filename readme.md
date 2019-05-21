@@ -5,11 +5,11 @@ This project consists of a clean and polished Graphical User Interface (GUI) tha
 ## Machine Learning Models Implemented:
 - Logistic Regression
 - Stochastic Gradient Descent
-- K Nearest Neighbor, 
-- Random Forest,
-- Naive Bayes,
-- Perceptron,
-- Linear Support Vector Machine, 
+- K Nearest Neighbor
+- Random Forest
+- Naive Bayes
+- Perceptron
+- Linear Support Vector Machine
 - Decision Tree
 
 

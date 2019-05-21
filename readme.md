@@ -26,7 +26,7 @@ This project consists of a clean and polished Graphical User Interface (GUI) tha
 
 ## GUI Preview:
 
-![image](https://user-images.githubusercontent.com/39894720/58125916-b66c8700-7bdf-11e9-8e6b-8e9147e4f21d.png)
+![image](https://user-images.githubusercontent.com/39894720/58128517-d30bbd80-7be5-11e9-8fa3-164298563cb7.png)
 
 ![image](https://user-images.githubusercontent.com/39894720/58128427-99d34d80-7be5-11e9-83ac-6cfe60096de8.png)
 

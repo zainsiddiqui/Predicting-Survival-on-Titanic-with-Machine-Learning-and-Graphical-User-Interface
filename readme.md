@@ -30,9 +30,9 @@ This project consists of a clean and polished Graphical User Interface (GUI) tha
 
 ![image](https://user-images.githubusercontent.com/39894720/58125959-ca17ed80-7bdf-11e9-8b4b-c1def578ae03.png)
 
-![image](https://user-images.githubusercontent.com/39894720/58125962-ce440b00-7bdf-11e9-9576-6e0bdb5d2659.png =250x250)
+![image](https://user-images.githubusercontent.com/39894720/58125962-ce440b00-7bdf-11e9-9576-6e0bdb5d2659.png)
 
-![image](https://user-images.githubusercontent.com/39894720/58125968-d308bf00-7bdf-11e9-8b76-6c9450c2eaaa.png =250x250)
+![image](https://user-images.githubusercontent.com/39894720/58125968-d308bf00-7bdf-11e9-8b76-6c9450c2eaaa.png)
 
 
 
